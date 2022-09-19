@@ -5,7 +5,7 @@
     <hr>
      
 
-    <label for="Name"><b>Enter mail</b></label>
+    <label for="Name"><b>Enter name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -36,7 +36,7 @@
   </div>
 
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning and All the very Best! </h1>
 
   
 </form>
